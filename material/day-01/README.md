@@ -1,6 +1,6 @@
 # SAPIENT ASDE - JUNE, 2021
 
-TOC for day 1:
+### TOC for day 1:
 
 -   Overview of CI/CD - Jenkins/Git/Maven/NFRs
 -   Jenkins pipelines
