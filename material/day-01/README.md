@@ -15,3 +15,7 @@ TOC for day 1:
 -   Tagging
 -   Branches
 -   Merging
+
+Useful links for reference
+
+-   [Markdown cheatsheet](https://github.com/kayartaya-vinod/markdown-here 'Markdown cheatsheet')
